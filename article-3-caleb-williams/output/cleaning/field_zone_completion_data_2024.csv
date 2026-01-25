@@ -1,0 +1,13 @@
+zone,vertical_zone,horizontal_zone,attempts,completions,completion_pct
+Behind LOS - Center,Behind LOS,Center,9,8,88.9
+Behind LOS - Left,Behind LOS,Left,55,50,90.9
+Behind LOS - Right,Behind LOS,Right,44,33,75.0
+Deep (20+) - Center,Deep (20+),Center,11,4,36.4
+Deep (20+) - Left,Deep (20+),Left,28,7,25.0
+Deep (20+) - Right,Deep (20+),Right,37,11,29.7
+Intermediate (10-20) - Center,Intermediate (10-20),Center,32,15,46.9
+Intermediate (10-20) - Left,Intermediate (10-20),Left,26,10,38.5
+Intermediate (10-20) - Right,Intermediate (10-20),Right,48,20,41.7
+Short (0-10) - Center,Short (0-10),Center,56,42,75.0
+Short (0-10) - Left,Short (0-10),Left,90,66,73.3
+Short (0-10) - Right,Short (0-10),Right,116,85,73.3
